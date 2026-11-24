@@ -36,3 +36,5 @@ nav .brand-icon{width:19px;height:19px}.top-actions>a{display:inline-flex;align-
 svg.brand-icon{filter:none;color:inherit;fill:currentColor}.social-icon{color:#fff}svg.brand-icon path{fill:currentColor}
 .business-contact{display:flex;align-items:center;justify-content:space-between;gap:20px;margin:30px 0;padding:25px;border:1px solid #224031;border-radius:10px;background:#041b13}.business-contact a{color:#57ddb5;font-size:16px;overflow-wrap:anywhere}.business-contact h2{font-size:23px}
 @media(max-width:600px){.business-contact{align-items:flex-start;flex-direction:column;padding:20px}.business-contact a{font-size:15px}}
+
+.offer+.offer{margin-top:16px}.slotoro-mark{background:radial-gradient(ellipse at top,#52318e,#171020 75%);border-color:#8963c5;color:#eadcff}
