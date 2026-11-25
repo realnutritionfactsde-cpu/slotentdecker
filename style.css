@@ -38,3 +38,5 @@ svg.brand-icon{filter:none;color:inherit;fill:currentColor}.social-icon{color:#f
 @media(max-width:600px){.business-contact{align-items:flex-start;flex-direction:column;padding:20px}.business-contact a{font-size:15px}}
 
 .offer+.offer{margin-top:16px}.slotoro-mark{background:radial-gradient(ellipse at top,#52318e,#171020 75%);border-color:#8963c5;color:#eadcff}
+
+.cashlounge-mark{background:radial-gradient(ellipse at top,#176047,#081b15 75%);border-color:#42b98c;color:#91f1c4}.cashlounge-mark span{font-size:8px;letter-spacing:1px}.offer-copy p.bonus-alternative{margin-top:9px}
